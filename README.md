@@ -2,8 +2,8 @@
 
 ## Local hosting
 
-1. Press the greed Code button and download as a ZIP file.
-2. The index file is in `pages/`. Drag that file into a browser.
+1. Press the green Code button and download as a ZIP file.
+3. The index file is in `pages/`. Drag that file into a browser.
 
 ## Screenshot
 
