@@ -22,6 +22,7 @@ footer {
 
 p {
     text-align: justify;
+    overflow-wrap: break-word;
 }
 
 #title {
