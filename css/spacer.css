@@ -1,0 +1,43 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Typography  */
+h1, h2, h3, h4, h5, h6, p {margin-bottom: 1em;}
+h1, h2, h3, h4, h5, h6 {font-weight: 500;}
+h1 {font-size: 2em;}
+h2 {font-size: 1.75em;}
+h3 {font-size: 1.5em;}
+h4 {font-size: 1.25em;}
+h5 {font-size: 1.125em;}
+h6 {font-size: 1em;}
+
+p {
+  line-height: 1.75;
+  font-size: 1em;
+  font-weight: 300;
+}
+
+/* Images */
+img {
+  display: block;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.img-container {width: 100%;}
+
+.caption {
+  text-align: center;
+  font-size: .8em;
+  margin-bottom: 1.5em;
+}
+
+/* Composition */
+.container {
+  position: relative;
+  width: 60%;
+  left: 20%;
+}
